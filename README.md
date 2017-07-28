@@ -28,7 +28,7 @@ If you face modulerrors even after installing the above mentioned modules, pip i
 ### Running
 Go to the respective directory which you want to run the code in.
 If you are using a python3 version please go to Python3_TY_R4nS0M,
-if you are using a python2 version please go to Python3_TY_R4nS0M
+if you are using a python2 version please go to Python2_TY_R4nS0M
 
 Once you are in the directory of the folder you chose.
 Type in:
